@@ -12,5 +12,5 @@ Vamos tomar um café e falar de código ? :) </p>
 
 
   
-   ![Snake animation](https://github.com/daniszcode/daniszcode/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Daniszcode/Daniszcode/blob/output/github-contribution-grid-snake.svg)
 

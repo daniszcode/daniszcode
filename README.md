@@ -8,5 +8,9 @@ Vamos tomar um café e falar de código ? :) </p>
   
   
 </center>
+##
 
+
+  
+   ![Snake animation](https://github.com/daniszcode/daniszcode/blob/output/github-contribution-grid-snake.svg)
 

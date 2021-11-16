@@ -2,7 +2,7 @@
 
 Atualmente estou cursando Tecnologia em Desenvolvimento Web e sou aluna da Reprograma turma 13 do 'Todas em Tech', minhas stacks no front-end são: React.Js, HTML, CSS, Javascript. Também possuo noções de UX/UI e estou sempre disposta a aprender!
 
-Vamos tomar um café e falar de código ? :) </p>
+Vamos tomar um café e falar de código? :) </p>
 <center>     <table align="center">       <tr>           <td>               <img width="900px" align="center" src="https://github-readme-stats.vercel.app/api?username=daniszcode&count_private=true&hide_border=true" />           </td>           <td>               <img align="center" width="850px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniszcode&layout=compact&hide_border=true" alt="daniszcode" />                   </td>       </tr>       </table> 
 
 </center>

@@ -1,6 +1,10 @@
-<h1> Olá, sou a Daniele.</h1><p> Estudante de Desenvolvimento Front-End. Eu atuava na área da educação e durante meu curso de Letras, em meio ao meu TCC, que tinha o tema: "Tecnologia que auxiliam pessoas com deficiência na educação", tive meu primeiro contato com o mundo Tech. Fiquei fascinada com o poder da tecnologia e deste momento em diante não parei mais de estudar sobre. Troquei de curso e sigo feliz com a minha escolha. Meu objetivo é ajudar as pessoas e tornar o mundo mais inclusivo através da tecnologia.
-Atualmente estou cursando Tecnologia em Desenvolvimento Web e sou estagiaria de desenvolvimento de software na <a href="https://github.com/Creditas">Creditas</a>. Minhas stacks no front-end são: React.Js, HTML, CSS, Javascript. Também possuo noções de UX/UI e estou sempre disposta a aprender!
-Vamos tomar um café e falar de código? :) </p>
+<h1> Olá, sou a Daniele.</h1><p> Desenvolvedora Full Stack. Já atuei como Front-end no meu estagio, entratanto estou me especializando em tecnologias back-end também.
+
+Eu atuava na área da educação e durante meu curso de Letras, em meio ao meu TCC, que tinha o tema: "Tecnologia que auxiliam pessoas com deficiência na educação", tive meu primeiro contato com o mundo Tech. Fiquei fascinada com o poder da tecnologia e deste momento em diante não parei mais de estudar sobre. Troquei de curso e sigo feliz com a minha escolha. Meu objetivo é ajudar as pessoas e tornar o mundo mais inclusivo através da tecnologia.
+Me formei em dez/2022 no meu tecnologo: Tecnologia em Desenvolvimento Web que tem o foco em Desenvolvimento Front-end, porém estou cursando em paralelo um bacharel em ciências da computação. 
+
+Vamos tomar um café e falar de código? :) 
+</p>
  <div>
   <a href="https://github.com/daniszcode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniszcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

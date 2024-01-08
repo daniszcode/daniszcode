@@ -1,7 +1,4 @@
-<h1> Olá, sou a Daniele.</h1><p> Desenvolvedora Full Stack. Já venho atuando como Front-end, entratanto estou me especializando em tecnologias back-end também.
-
-Eu atuava na área da educação e durante meu curso de Letras, em meio ao meu TCC, que tinha o tema: "Tecnologia que auxiliam pessoas com deficiência na educação", tive meu primeiro contato com o mundo Tech. Fiquei fascinada com o poder da tecnologia e deste momento em diante não parei mais de estudar sobre. Troquei de curso e sigo feliz com a minha escolha. Meu objetivo é ajudar as pessoas e tornar o mundo mais inclusivo através da tecnologia.
-Me formei em dez/2022 no meu tecnologo: Tecnologia em Desenvolvimento Web que tem o foco em Desenvolvimento Front-end, porém estou cursando em paralelo um bacharel em ciências da computação. 
+<h1> Olá, sou a Daniele.</h1><p> Desenvolvedora Full Stack Jr no Centro de Inovação EDGE . 
 
 Vamos tomar um café e falar de código? :) 
 </p>
